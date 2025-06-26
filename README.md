@@ -61,25 +61,8 @@ twenty_four_002.mrxs,0.0263,2.04
 
 ## How to Run the Streamlit Application
 
-### 1. Install dependencies
+### 1. Install
 
-```bash
-pip install -r requirements.txt
-```
-
-Typical contents of `requirements.txt`:
-
-```txt
-streamlit
-torch
-torchvision
-Pillow
-numpy
-opencv-python
-scikit-learn
-matplotlib
-openslide-python
-```
 
 ### 2. Start the app
 
