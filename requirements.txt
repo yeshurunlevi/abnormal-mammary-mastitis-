@@ -1,10 +1,14 @@
 streamlit
 torch
 torchvision
-Pillow
 numpy
-opencv-python
-scikit-learn
+Pillow
 matplotlib
+pandas
+opencv-python
+tqdm
 openslide-python
+scikit-image
 openslide-bin
+
+
