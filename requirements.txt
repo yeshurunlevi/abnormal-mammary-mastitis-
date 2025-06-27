@@ -7,3 +7,4 @@ opencv-python
 scikit-learn
 matplotlib
 openslide-python
+openslide-bin
