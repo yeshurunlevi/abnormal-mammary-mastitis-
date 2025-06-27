@@ -1,9 +1,3 @@
-# abnormal-mammary-mastitis-
-abnormal mammary (mastitis)
-
-
----
-
 # Mammary Gland Anomaly Detection using Autoencoder
 
 This project provides an end-to-end deep learning pipeline to detect anomalies in mammary gland histological scans. It includes tools to preprocess full-slide scans, train an Autoencoder for unsupervised anomaly detection, generate heatmaps of pixel-wise errors, and visualize abnormal regions.
